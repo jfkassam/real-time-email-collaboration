@@ -3,6 +3,8 @@ In today's remote-centric work environment, teams often need to compose emails t
 # Video
 We made a video detailing what this solution would entail and what features it would have.
 {% include youtubePlayer.html id="Y-Mfvl0dNv0" %}
+## More information
+Our complete document for this milestone can be found at https://drive.google.com/file/d/16SFfddbUktk-3qeoGCWO4IvRzIBnXNjR/view?usp=sharing.
 # Group Members
 - Jamil Kassam
 - Sheena Matthew
